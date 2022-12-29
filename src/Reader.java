@@ -147,6 +147,4 @@ public class Reader {
             System.out.println("Такой книги у читателя нет! ");
         }
     }
-
-
 }
