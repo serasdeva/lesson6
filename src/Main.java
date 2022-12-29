@@ -39,6 +39,5 @@ public class Main {
         reader2.getBooks();
         reader2.takeBook(reader2.books.size());
         reader2.returnBook();
-
     }
 }
